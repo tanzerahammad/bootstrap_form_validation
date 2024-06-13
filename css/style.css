@@ -1,0 +1,39 @@
+/*global*/
+:root{
+	--teal: #1a9e9e;
+	--white: white;
+	--indigo:#093145;
+
+	--pop: 'Poppins',sans-serif;
+
+	--20:20px;
+	--50:50px;
+
+	--400:400;
+	--500:500;
+	--700:700;
+
+	--pad:5px;
+
+
+
+}
+body{
+	background-color: var(--indigo);
+}
+
+.box{
+
+	font-size: 2rem;
+	margin-bottom: 5px;
+	height: 50px;
+	background-color: greenyellow;
+	text-align: center;
+
+
+}
+.h_300{
+	height: 150px;
+	color: green;
+}
+
